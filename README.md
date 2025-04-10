@@ -1,1 +1,3 @@
 # TutorialJogosDigitais
+
+Aluno: Theo Decourt
